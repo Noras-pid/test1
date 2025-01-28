@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-01-28T10:14:05.549Z",
+  "lastUpdated": "2025-01-28T10:14:44.942Z",
   "schedule": {
     "days": [
       {
@@ -54,14 +54,14 @@
             "id": "1-6",
             "time": "6",
             "subject": "Біологія",
-            "teacher": "Артур Михаїлович.",
+            "teacher": "Артур М.",
             "type": "full"
           },
           {
             "id": "1-6",
-            "time": "7",
-            "subject": "Укр. Літ",
-            "teacher": "Ірина С.",
+            "time": "6",
+            "subject": "Біологія",
+            "teacher": "Артур М.",
             "type": "full"
           }
         ]
@@ -133,8 +133,8 @@
             "type": "full"
           },
           {
-            "id": "3-2",
-            "time": "2",
+            "id": "1-6",
+            "time": "6",
             "subject": "Біологія",
             "teacher": "Артур М.",
             "type": "full"
