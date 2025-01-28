@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-01-28T10:14:44.942Z",
+  "lastUpdated": "2025-01-28T10:14:53.588Z",
   "schedule": {
     "days": [
       {
@@ -47,7 +47,7 @@
             "id": "1-5",
             "time": "5",
             "subject": "Фізика",
-            "teacher": "Литвин",
+            "teacher": "Литвин.",
             "type": "full"
           },
           {
@@ -222,10 +222,10 @@
             "type": "full"
           },
           {
-            "id": "4-6",
-            "time": "6",
+            "id": "1-5",
+            "time": "5",
             "subject": "Фізика",
-            "teacher": "Кондиции.",
+            "teacher": "Литвин.",
             "type": "full"
           },
           {
