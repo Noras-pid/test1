@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-01-28T10:14:53.588Z",
+  "lastUpdated": "2025-01-28T10:14:59.927Z",
   "schedule": {
     "days": [
       {
@@ -22,7 +22,7 @@
             "id": "1-2",
             "time": "2",
             "subject": "Українська Мова / Англійська мова",
-            "teacher": "Субо",
+            "teacher": "Субо.",
             "type": "split",
             "groups": [
               "Група 1",
